@@ -1,8 +1,8 @@
 /* -----FONTs ---------------------------------------------------------- */
-@font-face {font-family: "Roboto" ; src: url("/font/Roboto/Roboto-Medium.ttf");}
-@font-face {font-family: "Roboto-bold" ; src: url("/font/Roboto/Roboto-Bold.ttf");}
-@font-face {font-family: "Roboto-light" ; src: url("/font/Roboto/Roboto-Light.ttf");}
-@font-face {font-family: "Shrikhand" ; src: url("/font/Shrikhand/Shrikhand-Regular.ttf");}
+@font-face {font-family: "Roboto" ; src: url("font/Roboto/Roboto-Medium.ttf");}
+@font-face {font-family: "Roboto-bold" ; src: url("font/Roboto/Roboto-Bold.ttf");}
+@font-face {font-family: "Roboto-light" ; src: url("font/Roboto/Roboto-Light.ttf");}
+@font-face {font-family: "Shrikhand" ; src: url("font/Shrikhand/Shrikhand-Regular.ttf");}
 /* --------------------------------------------------------------------------- */
 
 
