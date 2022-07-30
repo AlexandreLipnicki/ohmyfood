@@ -291,6 +291,7 @@ button{
 button:hover{
     transform: scale(1.05);
     box-shadow: 0px 0px 20px #9256dcbd;
+    opacity: 0.8;
 }
 .font3{
     font-size:3em;
